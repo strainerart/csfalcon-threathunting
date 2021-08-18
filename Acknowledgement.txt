@@ -1,0 +1,5 @@
+Humongous thanks to these 3 great references that have been useful for my threat hunting for more than a year of being a Crowdstrike Falcon user.
+
+https://github.com/pe3zx/crowdstrike-falcon-queries#execution-of-renamed-executables
+https://gist.github.com/ag-michael/4fc4e4ae7a8226dcb679261f18a3500d
+https://docs.google.com/spreadsheets/d/1RTcZsRbDsjxwmKpe3FIvSKUjBk5pR2Dlzj71QTnxAK0/edit#gid=0
